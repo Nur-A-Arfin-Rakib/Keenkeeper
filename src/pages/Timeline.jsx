@@ -21,7 +21,7 @@ const Timeline = () => {
     <div className="min-h-screen bg-gray-50 py-10">
       <div className="max-w-3xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between mb-8">
-          <h1 className="text-3xl font-bold text-gray-900">Timeline</h1>
+          <h1 className="text-3xl font-bold text-gray-900">📜 Timeline</h1>
           <div className="flex items-center gap-1 bg-white border border-gray-100 rounded-xl p-1 shadow-sm">
             {filters.map((f) => (
               <button
