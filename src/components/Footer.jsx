@@ -27,7 +27,7 @@ const Footer = () => {
             </a>
           </div>
           <div className="border-t border-white/10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-white/40">
-            <span>© 2026 KeenKeeper. All rights reserved.</span>
+            <span>© 2026 KeenKeeper. Made with ❤️ All rights reserved.</span>
             <div className="flex gap-4">
               <a href="#" className="hover:text-white/70 transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-white/70 transition-colors">Terms of Service</a>
