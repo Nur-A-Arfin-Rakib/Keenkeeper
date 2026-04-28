@@ -33,7 +33,7 @@ const Stats = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-10">
       <div className="max-w-4xl mx-auto px-4 sm:px-6">
-        <h1 className="text-3xl font-bold text-gray-900 mb-2">Friendship Analytics</h1>
+        <h1 className="text-3xl font-bold text-gray-900 mb-2">📊 Friendship Analytics</h1>
         <p className="text-gray-500 mb-8">A breakdown of your interactions by type</p>
 
         {/* Stat Summary Cards */}
