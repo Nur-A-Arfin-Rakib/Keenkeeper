@@ -44,7 +44,7 @@ const FriendCard = ({ friend }) => {
         </div>
         <div>
           <h3 className="font-semibold text-gray-900 text-sm">{friend.name}</h3>
-          <p className="text-xs text-gray-400 mt-0.5">{friend.days_since_contact} days since contact</p>
+    <p className="text-xs text-gray-400 mt-0.5">Last contact: {friend.days_since_contact} days ago</p>
         </div>
         <div className="flex flex-wrap gap-1 justify-center">
           {friend.tags.map((tag) => (
