@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Rahman",
+    "picture": "https://i.pravatar.cc/150?img=1",
+    "email": "sarah.rahman@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met in first year of university. We bonded over terrible cafeteria food and late-night study sessions. Now she's a UX designer in Dhaka.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "James Wright",
+    "picture": "https://i.pravatar.cc/150?img=3",
+    "email": "james.wright@outlook.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "mentor"],
+    "bio": "My first manager at the startup. Taught me how to write clean code and communicate with stakeholders. Still meet for coffee every two weeks.",
+    "goal": 14,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 3,
+    "name": "Priya Mehta",
+    "picture": "https://i.pravatar.cc/150?img=5",
+    "email": "priya.mehta@yahoo.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["school", "neighbor"],
+    "bio": "We grew up on the same street and went to the same school for 10 years. Now she lives in London but we try to catch up every two weeks.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Mendez",
+    "picture": "https://i.pravatar.cc/150?img=7",
+    "email": "carlos.mendez@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gym", "travel buddy"],
+    "bio": "Met during a backpacking trip through Southeast Asia in 2022. We've stayed close ever since. He's the person I call when I need honest advice.",
+    "goal": 10,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 5,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/150?img=9",
+    "email": "emma.wilson@proton.me",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["college", "roommate"],
+    "bio": "My college roommate for three years. She moved to Melbourne after graduation. We used to talk every week but life got busy — I really need to call her.",
+    "goal": 21,
+    "next_due_date": "2026-04-01"
+  },
+  {
+    "id": 6,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/150?img=11",
+    "email": "david.kim@gmail.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["work", "gaming"],
+    "bio": "We met at a hackathon and ended up building a project together that actually won third place. He's a backend developer who also loves board games.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 7,
+    "name": "Aisha Okonkwo",
+    "picture": "https://i.pravatar.cc/150?img=16",
+    "email": "aisha.okonkwo@gmail.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["close friend", "book club"],
+    "bio": "We met at a book club two years ago and instantly clicked. She's a writer and always recommends the most underrated novels. Weekly calls are non-negotiable.",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 8,
+    "name": "Liam Nakamura",
+    "picture": "https://i.pravatar.cc/150?img=18",
+    "email": "liam.nakamura@outlook.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": ["childhood", "family friend"],
+    "bio": "We've known each other since we were 6 years old. Our families used to go on holidays together. He moved to Tokyo for work and I haven't called in weeks.",
+    "goal": 21,
+    "next_due_date": "2026-04-05"
+  }
+]
