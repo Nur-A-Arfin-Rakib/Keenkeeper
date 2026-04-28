@@ -12,7 +12,7 @@ const Navbar = () => {
               <span className="text-white font-bold text-sm">K</span>
             </div>
             <span className="text-[#1a3c2e] font-bold text-xl tracking-tight">
-              KeenKeeper
+              KeenKeeper 🌿
             </span>
           </NavLink>
 
